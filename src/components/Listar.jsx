@@ -1,6 +1,4 @@
 import { useState, useEffect } from "react"
-
-const [rutas, setRutas] = useState([])
 import logoMetro from '../assets/tren.webp'
 import Mensajes from './Mensajes'
 
